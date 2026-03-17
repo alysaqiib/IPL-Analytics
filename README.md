@@ -71,9 +71,9 @@ Python 3.10
 ## 📁 Project Structure
 
 ```
-CodeAlpha_IPLAnalytics/
+IPL-Analytics/
 │
-├── IPL_Analytics_CodeAlpha.ipynb   ← Main notebook (all 4 tasks)
+├── IPL-Analytics.ipynb   ← Main notebook (all 4 tasks)
 │
 ├── ipl_matches_clean.csv           ← Cleaned matches dataset
 ├── ipl_deliveries_clean.csv        ← Cleaned ball-by-ball dataset
@@ -91,7 +91,7 @@ CodeAlpha_IPLAnalytics/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_IPLAnalytics.git
+git clone https://github.com/alysaqiib/IPL-Analytics.git
 ```
 
 **2. Install dependencies**
@@ -101,7 +101,7 @@ python -m textblob.download_corpora
 ```
 
 **3. Open the notebook**
-- Upload `IPL_Analytics_CodeAlpha.ipynb` to [Google Colab](https://colab.research.google.com)
+- Upload `IPL-Analytics.ipynb` to [Google Colab](https://colab.research.google.com)
 - Upload `matches.csv` and `deliveries.csv` when prompted
 - Run all cells from top to bottom ▶️
 
